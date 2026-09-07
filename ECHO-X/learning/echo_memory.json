@@ -1,0 +1,110 @@
+[
+    {
+        "timestamp": "2026-09-07 05:27:43",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 25,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 72.22,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    },
+    {
+        "timestamp": "2026-09-07 08:38:50",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 25,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 72.22,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    },
+    {
+        "timestamp": "2026-09-07 08:43:27",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 25,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 72.22,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    },
+    {
+        "timestamp": "2026-09-07 08:44:25",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 25,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 72.22,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    },
+    {
+        "timestamp": "2026-09-07 08:47:31",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 25,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 72.22,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    },
+    {
+        "timestamp": "2026-09-07 09:20:01",
+        "attack_path": [
+            "DESKTOP-EH8RMSN",
+            "Device-1"
+        ],
+        "threat_level": "HIGH",
+        "risk_score": 40,
+        "defense": "Isolate Employee PC",
+        "display_name": "Isolate DESKTOP-EH8RMSN",
+        "simulated_effectiveness": 83.33,
+        "effectiveness": 100.0,
+        "blocked": true,
+        "verified": true,
+        "neutralized": true,
+        "execution_status": "SUCCESS",
+        "verification_status": "VERIFIED"
+    }
+]
